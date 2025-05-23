@@ -23,16 +23,26 @@ The dataset is designed to support research in **scientific machine learning**, 
 
 ## 📜 License & Citation
 
-The dataset and codes are released for **research purposes only**.  
-If you use this dataset in your published work, please cite our paper:
+The dataset and code are released for **research purposes only**.
 
-> **Data-driven operator learning for energy-efficient building ventilation control**  
-> *Authors: Yuexin Bian, Yuanyuan Shi*. 
+If you use this dataset in your published work, please cite the following paper:
 
-Paper coming soon.
+> **Data-driven operator learning for energy-efficient building control**  
+> *Yuexin Bian, Yuanyuan Shi*  
+> [arXiv:2504.21243](https://arxiv.org/abs/2504.21243)
+
+### 📚 BibTeX
+```bibtex
+@article{bian2025data,
+  title={Data-driven operator learning for energy-efficient building control},
+  author={Bian, Yuexin and Shi, Yuanyuan},
+  journal={arXiv preprint arXiv:2504.21243},
+  year={2025}
+}
+```
 
 ## 📫 Contact
 
-For questions or collaborations, feel free to reach out via [Email](yubian@ucsd.edu).
+For questions or collaborations, feel free to reach out via [Email](yubian@ucsd.edu). I am happy to answer any questions and collaborate! 
 
 ---
