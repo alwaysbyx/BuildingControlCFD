@@ -1,6 +1,7 @@
 # BuildingControlCFD
 
 This repository accompanies the paper:  
+<<<<<<< HEAD
 **_Data-driven operator learning for energy-efficient building control_**  Please cite our paper. 
 
 The code integrates CFD-based airflow simulation, operator learning (neural operator models), and optimization-based control with neural operators to enable energy-efficient and ventilation control. 
@@ -50,6 +51,10 @@ Inspect spatial-temporal air distribution and control performance:
 ```bash
 control/visualize.ipynb
 ```
+=======
+**_Data-driven operator learning for energy-efficient building control_**  
+> The code will be made publicly available soon.
+>>>>>>> a480ef05ecf63d1cdcc0e34264012bea0faeb051
 
 ## 📂 Dataset Access
 
@@ -92,4 +97,8 @@ If you use this dataset in your published work, please cite the following paper:
 
 For questions or collaborations, feel free to reach out via [Email](yubian@ucsd.edu). I am happy to answer any questions and collaborate! 
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> a480ef05ecf63d1cdcc0e34264012bea0faeb051
