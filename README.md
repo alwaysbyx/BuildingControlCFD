@@ -1,8 +1,7 @@
 # BuildingControlCFD
 
 This repository accompanies the paper:  
-<<<<<<< HEAD
-**_Data-driven operator learning for energy-efficient building control_**  Please cite our paper. 
+**_Data-driven operator learning for energy-efficient building control_** 
 
 The code integrates CFD-based airflow simulation, operator learning (neural operator models), and optimization-based control with neural operators to enable energy-efficient and ventilation control. 
 
