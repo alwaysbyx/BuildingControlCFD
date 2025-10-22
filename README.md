@@ -53,7 +53,6 @@ control/visualize.ipynb
 =======
 **_Data-driven operator learning for energy-efficient building control_**  
 > The code will be made publicly available soon.
->>>>>>> a480ef05ecf63d1cdcc0e34264012bea0faeb051
 
 ## 📂 Dataset Access
 
@@ -96,8 +95,3 @@ If you use this dataset in your published work, please cite the following paper:
 
 For questions or collaborations, feel free to reach out via [Email](yubian@ucsd.edu). I am happy to answer any questions and collaborate! 
 
-<<<<<<< HEAD
----
-=======
----
->>>>>>> a480ef05ecf63d1cdcc0e34264012bea0faeb051
