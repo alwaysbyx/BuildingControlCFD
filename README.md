@@ -52,7 +52,6 @@ control/visualize.ipynb
 ```
 =======
 **_Data-driven operator learning for energy-efficient building control_**  
-> The code will be made publicly available soon.
 
 ## 📂 Dataset Access
 
